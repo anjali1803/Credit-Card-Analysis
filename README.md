@@ -7,7 +7,7 @@ This Power BI project that analyzes and visualizes credit card usage and custome
 3. Visualization: Create visualizations that highlight key findings in the data
 4. Report taking: Interpret the results of analysis and derive actionable insights that can inform decision-making in the healthcare
 
-## Requirements
+## Requirements:
 1. Which demographic tends to generate the most revenue?
 2. How much revenue do graduates contribute?
 3. Which age group is the largest?
