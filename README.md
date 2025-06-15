@@ -1,4 +1,4 @@
-# Overview:
+# Overview
 This Power BI project that analyzes and visualizes credit card usage and customer data. The project provides insights into various metrics, including revenue, transaction amounts, customer satisfaction, and delinquent accounts.
 
 ## Analysis Steps:
@@ -19,7 +19,7 @@ This Power BI project that analyzes and visualizes credit card usage and custome
 9. What proportion of customers have delinquent accounts?
 10. What is the most common method of using credit cards?
 
-## Report
+## Report:
 ### credit card services report 
 1. The highest revenue-generating card type is blue, with an amount of $9 million.
 2. Over 4.5 million transactions occurred in the month of July.
