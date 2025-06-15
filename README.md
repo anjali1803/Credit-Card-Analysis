@@ -1,4 +1,4 @@
-# Overview
+# Overview:
 This Power BI project that analyzes and visualizes credit card usage and customer data. The project provides insights into various metrics, including revenue, transaction amounts, customer satisfaction, and delinquent accounts.
 
 ## Analysis Steps
