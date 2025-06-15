@@ -27,7 +27,7 @@ This Power BI project that analyzes and visualizes credit card usage and custome
 4. Out of 10,000 customers, only 614 have delinquent accounts.
 5. The most common method of credit card use is swiping, with a total utilization ratio of 7100.
 
-## customer analysis report
+## customer analysis report:
 1. Businessmen tend to provide more revenue, exceeding $2 million, followed by white-collar job holders.
 2. Graduates tend to provide more revenue, exceeding $4.7 million.
 3. People in the age group of 46 to 55 are more numerous compared to other age groups.
